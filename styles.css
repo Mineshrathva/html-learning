@@ -42,13 +42,6 @@ code {
     padding: 0.5rem;
     border-radius: 5px;
 }
-
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
+img {
     width: 100%;
-    bottom: 0;
 }
